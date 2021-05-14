@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pj/AG6PdHod5V09t/+g3ZDCy/mXQC0tlxtIFENIf5OdPIjZIcjEu5W90aMO5B6uk3UpwAI4DoLm2RYT3RnrnWQ==",
+  "dgSpecHash": "16q/bkCQOXimwZQRH+M3LQvwtliNK6XuGCQVkJXsRPFxupS17fqhEbujLdfj7dJEp4aTdZc2dzfLplppIMduNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj",
+  "projectFilePath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\GestionDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rocio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Rocio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
