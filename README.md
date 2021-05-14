@@ -7,7 +7,7 @@
 2. [Contacto](#contacto)
 3. [Referencias](#referencias)
 
-### About
+### About  :memo:
 
 Nuestro dashboard es una herramienta de gestión de la información que monitoriza, analiza y muestra de manera visual los indicadores clave de desempeño (KPI), métricas y datos fundamentales para hacer un seguimiento del estado de las ventas de una empresa por comercial y en conjunto, en función de las ventas por cliente o mensuales.
 
@@ -38,10 +38,13 @@ Esta aplicación está desarrollada en Visual Studio con lenguaje C#, se cargan 
 2.2 Panel inferior
 	El panel inferior nos devulve la información sobre facturación.
 
-### Contacto
+### Contacto  :mailbox:
 
+Este proyecto ha sido realizado por Rocío Letona Aguilar(me), soy una estudiante de Desarrollo de Aplicaciones Multiplataforma intentando abrirse camino en este mundo para cambiar su poryecto profesional.
 
-### Referencias
+Puedes contactar en: rletona@birt.eus
+
+### Referencias    :paperclip:
 
 [Visual Studio 2019](https://visualstudio.microsoft.com/es/vs/)
 
