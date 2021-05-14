@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Consola/1.0.0": {
+        "dependencies": {
+          "DashboardDatos": "1.0.0",
+          "DashboardManager": "1.0.0",
+          "GestionDatos": "1.0.0"
+        },
+        "runtime": {
+          "Consola.dll": {}
+        }
+      },
+      "DashboardDatos/1.0.0": {
+        "runtime": {
+          "DashboardDatos.dll": {}
+        }
+      },
+      "DashboardManager/1.0.0": {
+        "dependencies": {
+          "DashboardDatos": "1.0.0",
+          "GestionDatos": "1.0.0"
+        },
+        "runtime": {
+          "DashboardManager.dll": {}
+        }
+      },
+      "GestionDatos/1.0.0": {
+        "dependencies": {
+          "DashboardDatos": "1.0.0"
+        },
+        "runtime": {
+          "GestionDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DashboardDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DashboardManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
