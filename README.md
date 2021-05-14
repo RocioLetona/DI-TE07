@@ -27,7 +27,8 @@ Esta aplicación está desarrollada en Visual Studio con lenguaje C#, se cargan 
 	
 1.3 Botón blanco
 	Este botón nos informa de los valores de la empresa y sus objetivos comerciales.
-  1.4 Orden de los botones
+	
+1.4 Orden de los botones
 	Para obtener los datos de facturación, sea por cliente o mensual, previamente hay que clickar siempre el botón verde del comercial o del total empresa del cuál queremos consultar dichos datos.
 
     
