@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj": {}
+    "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\GestionDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj": {
+    "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj",
         "projectName": "DashboardDatos",
-        "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj",
+        "projectPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj",
         "packagesPath": "C:\\Users\\Rocio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\obj\\",
+        "outputPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj": {
+    "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\GestionDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\GestionDatos.csproj",
         "projectName": "GestionDatos",
-        "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj",
+        "projectPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\GestionDatos.csproj",
         "packagesPath": "C:\\Users\\Rocio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\obj\\",
+        "outputPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -93,8 +93,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj": {
-                "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj"
+              "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj": {
+                "projectPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj"
               }
             }
           }
