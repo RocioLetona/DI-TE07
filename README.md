@@ -44,3 +44,8 @@ Esta aplicación está desarrollada en Visual Studio con lenguaje C#, se cargan 
 
 
 **Referencias**
+
+[Visual Studio 2019](https://visualstudio.microsoft.com/es/vs/)
+[Crystal Reports](https://www.crystalreports.com/)
+[C#](https://docs.microsoft.com/es-es/dotnet/csharp/)
+[Dashboard](https://www.wearemarketing.com/es/blog/que-es-un-dashboard-de-negocios-y-cuales-sus-beneficios.html)
