@@ -1,0 +1,12 @@
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\bin\Debug\netstandard2.0\GestionDatos.deps.json
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\bin\Debug\netstandard2.0\GestionDatos.dll
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\bin\Debug\netstandard2.0\GestionDatos.pdb
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\bin\Debug\netstandard2.0\DashboardDatos.dll
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\bin\Debug\netstandard2.0\DashboardDatos.pdb
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\obj\Debug\netstandard2.0\GestionDatos.csprojAssemblyReference.cache
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\obj\Debug\netstandard2.0\GestionDatos.AssemblyInfoInputs.cache
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\obj\Debug\netstandard2.0\GestionDatos.AssemblyInfo.cs
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\obj\Debug\netstandard2.0\GestionDatos.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\obj\Debug\netstandard2.0\GestionDatos.csproj.CopyComplete
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\obj\Debug\netstandard2.0\GestionDatos.dll
+C:\Users\Rocio\source\repos\Dashboard\GestionDatos\obj\Debug\netstandard2.0\GestionDatos.pdb
