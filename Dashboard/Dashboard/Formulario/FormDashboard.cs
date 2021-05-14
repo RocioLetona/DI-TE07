@@ -170,8 +170,13 @@ namespace Dashboard.Formulario
 
         private void manualDeUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string appPath = Path.Combine(Application.StartupPath, "CHM\\Help.chm");
-            Help.ShowHelp(this, appPath);
+            //string appPath = Path.Combine(Application.StartupPath, "CHM\\Help.chm");
+            Help.ShowHelp(this, "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\Dashboard\\bin\\Debug\\CHM\\Help.chm");
+        }
+
+        private void tLP_Datos_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
