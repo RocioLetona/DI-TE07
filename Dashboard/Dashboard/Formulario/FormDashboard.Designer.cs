@@ -43,12 +43,12 @@ namespace Dashboard.Formulario
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.b_Pop = new System.Windows.Forms.Button();
             this.tLP_Datos = new System.Windows.Forms.TableLayoutPanel();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.editarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.manualDeUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.tLP_Base.SuspendLayout();
             this.tLP_Mandos.SuspendLayout();
             this.tLP_botonescom.SuspendLayout();
@@ -256,6 +256,7 @@ namespace Dashboard.Formulario
             this.tLP_Datos.Size = new System.Drawing.Size(896, 605);
             this.tLP_Datos.TabIndex = 1;
             this.tLP_Datos.UseWaitCursor = true;
+            this.tLP_Datos.Paint += new System.Windows.Forms.PaintEventHandler(this.tLP_Datos_Paint);
             // 
             // menuStrip1
             // 
@@ -268,6 +269,7 @@ namespace Dashboard.Formulario
             this.menuStrip1.Size = new System.Drawing.Size(896, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.UseWaitCursor = true;
             // 
             // archivoToolStripMenuItem
             // 
