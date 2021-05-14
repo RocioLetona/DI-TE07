@@ -221,11 +221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardManager\\DashboardManager.csproj",
+      "projectUniqueName": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardManager\\DashboardManager.csproj",
       "projectName": "DashboardManager",
-      "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardManager\\DashboardManager.csproj",
+      "projectPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardManager\\DashboardManager.csproj",
       "packagesPath": "C:\\Users\\Rocio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardManager\\obj\\",
+      "outputPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -246,11 +246,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj": {
-              "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj"
+            "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj": {
+              "projectPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj"
             },
-            "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj": {
-              "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj"
+            "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\GestionDatos.csproj": {
+              "projectPath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\GestionDatos\\GestionDatos.csproj"
             }
           }
         }
