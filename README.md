@@ -1,9 +1,9 @@
 # DI-TE07
 ## Aplicación dashboard
-###Indice
+######Indice
 * About
 * Contacto
 * Referencias
-###About
-###Contacto
-###Referencias
+######About
+######Contacto
+######Referencias
