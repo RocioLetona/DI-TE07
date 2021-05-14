@@ -19,22 +19,25 @@ Esta aplicación está desarrollada en Visual Studio con lenguaje C#, se cargan 
 
 1 Uso de botones
 
-	1.1 Botones verdes
-		Los botones verdes nos devuelven los datos personales de los distintos comerciales o de la empresa, incluyendo en este caso los resultados de la facturación total anual de la empresa y activan los diferentes resultados de los botones azules.	
-	1.2 Botones azules
-		Los botones azules nos muestran los datos de facturación por cliente o por mes del comercial seleccionado o del total de la empresa según la selección realizada previamente con el respectivo botón verde.
-	1.3 Botón blanco
-		Este botón nos informa de los valores de la empresa y sus objetivos comerciales.
+1.1 Botones verdes
+	Los botones verdes nos devuelven los datos personales de los distintos comerciales o de la empresa, incluyendo en este caso los resultados de la facturación total anual de la empresa y activan los diferentes resultados de los botones azules.
+	
+1.2 Botones azules
+	Los botones azules nos muestran los datos de facturación por cliente o por mes del comercial seleccionado o del total de la empresa según la selección realizada previamente con el respectivo botón verde.
+	
+1.3 Botón blanco
+	Este botón nos informa de los valores de la empresa y sus objetivos comerciales.
   1.4 Orden de los botones
-		Para obtener los datos de facturación, sea por cliente o mensual, previamente hay que clickar siempre el botón verde del comercial o del total empresa del cuál queremos consultar dichos datos.
+	Para obtener los datos de facturación, sea por cliente o mensual, previamente hay que clickar siempre el botón verde del comercial o del total empresa del cuál queremos consultar dichos datos.
 
     
 2 Uso de paneles
 	
-	2.1 Panel superior
-		El panel superior nos devulve la información personal de los comerciales-botones verdes.	
-	2.2 Panel inferior
-		El panel inferior nos devulve la información sobre facturación.
+2.1 Panel superior
+	El panel superior nos devulve la información personal de los comerciales-botones verdes.
+	
+2.2 Panel inferior
+	El panel inferior nos devulve la información sobre facturación.
 
 **Contacto**
 
