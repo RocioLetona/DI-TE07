@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DashboardDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DashboardDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DashboardDatos.dll": {}
+        }
+      },
+      "DashboardManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DashboardDatos": "1.0.0",
+          "GestionDatos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DashboardManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DashboardManager.dll": {}
+        }
+      },
+      "GestionDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DashboardDatos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GestionDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestionDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DashboardDatos/1.0.0": {
+      "type": "project",
+      "path": "../DashboardDatos/DashboardDatos.csproj",
+      "msbuildProject": "../DashboardDatos/DashboardDatos.csproj"
+    },
+    "DashboardManager/1.0.0": {
+      "type": "project",
+      "path": "../DashboardManager/DashboardManager.csproj",
+      "msbuildProject": "../DashboardManager/DashboardManager.csproj"
+    },
+    "GestionDatos/1.0.0": {
+      "type": "project",
+      "path": "../GestionDatos/GestionDatos.csproj",
+      "msbuildProject": "../GestionDatos/GestionDatos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DashboardDatos >= 1.0.0",
+      "DashboardManager >= 1.0.0",
+      "GestionDatos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rocio\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\Consola\\Consola.csproj",
+      "projectName": "Consola",
+      "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\Rocio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\Consola\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Rocio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj": {
+              "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj"
+            },
+            "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardManager\\DashboardManager.csproj": {
+              "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardManager\\DashboardManager.csproj"
+            },
+            "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj": {
+              "projectPath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\GestionDatos\\GestionDatos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
