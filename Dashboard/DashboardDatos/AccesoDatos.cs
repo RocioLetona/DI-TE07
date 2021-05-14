@@ -10,8 +10,8 @@ namespace DashboardDatos
          * private const string Datos1 = "../../../../1_datos_comerciales.csv";
         private const string Datos2 = "../../../../2_facturacion_comercial.csv";*/
 
-        private const string Datos1 = "../1_datos_comerciales.csv";
-        private const string Datos2 = "../2_facturacion_comercial.csv";
+        private const string Datos1 = "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\1_datos_comerciales.csv";
+        private const string Datos2 = "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\2_facturacion_comercial.csv";
 
 
         public string[] datosCom;
