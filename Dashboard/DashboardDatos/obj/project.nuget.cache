@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GODimfSe1djq5ufSLyTnfx5UBPomwiDJ+Bex7/e8WdUUadx4vQX8tJclwfJWK0+iu5xQZh99dGdqOJ/1WwFzdg==",
+  "dgSpecHash": "xOO2Oaxr4OUvD/DsvI165Jsr9zS0btDN8x/w6ELlneT+1JEt4H6BfdwYo8tla+EeDpKw1mxnXqVAug18hAnpgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rocio\\source\\repos\\Dashboard\\DashboardDatos\\DashboardDatos.csproj",
+  "projectFilePath": "C:\\Users\\Rocio\\GIT\\DI TE07\\Dashboard\\DashboardDatos\\DashboardDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rocio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Rocio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
