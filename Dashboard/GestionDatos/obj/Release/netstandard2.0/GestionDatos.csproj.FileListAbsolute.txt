@@ -1,0 +1,12 @@
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\bin\Release\netstandard2.0\GestionDatos.deps.json
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\bin\Release\netstandard2.0\GestionDatos.dll
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\bin\Release\netstandard2.0\GestionDatos.pdb
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\bin\Release\netstandard2.0\DashboardDatos.dll
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\bin\Release\netstandard2.0\DashboardDatos.pdb
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\obj\Release\netstandard2.0\GestionDatos.csprojAssemblyReference.cache
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\obj\Release\netstandard2.0\GestionDatos.AssemblyInfoInputs.cache
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\obj\Release\netstandard2.0\GestionDatos.AssemblyInfo.cs
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\obj\Release\netstandard2.0\GestionDatos.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\obj\Release\netstandard2.0\GestionDatos.csproj.CopyComplete
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\obj\Release\netstandard2.0\GestionDatos.dll
+C:\Users\Rocio\GIT\DI TE07\Dashboard\GestionDatos\obj\Release\netstandard2.0\GestionDatos.pdb

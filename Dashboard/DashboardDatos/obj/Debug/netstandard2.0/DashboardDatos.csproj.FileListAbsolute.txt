@@ -1,0 +1,9 @@
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\bin\Debug\netstandard2.0\DashboardDatos.deps.json
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\bin\Debug\netstandard2.0\DashboardDatos.dll
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\bin\Debug\netstandard2.0\DashboardDatos.pdb
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\obj\Debug\netstandard2.0\DashboardDatos.csprojAssemblyReference.cache
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\obj\Debug\netstandard2.0\DashboardDatos.AssemblyInfoInputs.cache
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\obj\Debug\netstandard2.0\DashboardDatos.AssemblyInfo.cs
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\obj\Debug\netstandard2.0\DashboardDatos.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\obj\Debug\netstandard2.0\DashboardDatos.dll
+C:\Users\Rocio\source\repos\Dashboard\DashboardDatos\obj\Debug\netstandard2.0\DashboardDatos.pdb

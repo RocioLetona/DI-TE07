@@ -1,0 +1,14 @@
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\bin\Debug\netstandard2.0\DashboardManager.deps.json
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\bin\Debug\netstandard2.0\DashboardManager.dll
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\bin\Debug\netstandard2.0\DashboardManager.pdb
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\bin\Debug\netstandard2.0\DashboardDatos.dll
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\bin\Debug\netstandard2.0\DashboardDatos.pdb
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\obj\Debug\netstandard2.0\DashboardManager.csprojAssemblyReference.cache
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\obj\Debug\netstandard2.0\DashboardManager.AssemblyInfoInputs.cache
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\obj\Debug\netstandard2.0\DashboardManager.AssemblyInfo.cs
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\obj\Debug\netstandard2.0\DashboardManager.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\obj\Debug\netstandard2.0\DashboardManager.csproj.CopyComplete
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\obj\Debug\netstandard2.0\DashboardManager.dll
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\obj\Debug\netstandard2.0\DashboardManager.pdb
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\bin\Debug\netstandard2.0\GestionDatos.dll
+C:\Users\Rocio\source\repos\Dashboard\DashboardManager\bin\Debug\netstandard2.0\GestionDatos.pdb
